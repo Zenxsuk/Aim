@@ -6,7 +6,7 @@ local player = Players.LocalPlayer
 local Camera = workspace.CurrentCamera
 
 local UILibrary = loadstring(game:HttpGet(
-	"https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/UILibrary.lua"
+	"https://raw.githubusercontent.com/Zenxsuk/Aim/refs/heads/main/UILibrary.lua"
 ))()
 
 local Config = {
